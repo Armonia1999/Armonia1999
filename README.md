@@ -6,4 +6,6 @@ These days I'm honing my skills in: Python, SQL , Excel, Statistics and Tableau.
 
 I’m looking to collaborate on Web Scraping using python, building data pipelines, Data cleaning/mining/visualization and SQL querying / building databases. 
 
-- 📫 How to reach me : https://medium.com/@Armonia1999 , I'll figure out something else later.
+- 📫 How to reach me 
+
+LinkedIn: https://www.linkedin.com/in/armonia1999/ 
