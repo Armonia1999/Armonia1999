@@ -9,4 +9,5 @@ I’m looking to collaborate on Web Scraping using python, building data pipelin
 - 📫 How to reach me 
 
 LinkedIn: https://www.linkedin.com/in/armonia1999/ 
+
 Discord: https://discordapp.com/users/930051383032447046
