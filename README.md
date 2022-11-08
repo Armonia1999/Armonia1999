@@ -4,7 +4,7 @@ Currently I am pursuing a career in Data Analysis, that's why here I am listing 
 
 These days I'm honing my skills in: Python, SQL , Excel, Statistics and Tableau. 
 
-I’m looking to collaborate on Web Scraping using python, building data pipelines, Data cleaning/mining/visualization and SQL querying / building databases. 
+I’m looking to collaborate on Web Scraping using python, building data pipelines, Data cleaning/mining/visualization and SQL querying / designing databases. 
 
 - 📫 How to reach me 
 
