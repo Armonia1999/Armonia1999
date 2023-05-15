@@ -1,12 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/19846be73b3580b12193220d69b5fb76/d6eeb8ba-8efc-402e-8cf8-1a2ee254998d_rwc_0x65x1900x412x1900.jpg?h=8c910731a45dc8f7ff56e8bb2640b95b)
 
 <h1 align="center">Welcome to my profile, I'm Armonia.</h1>
-<h3 align="center">Aspiring data analyst.</h3>
+<h3 align="center">Data analyst.</h3>
 <br>
 <img align="right" alt="coding" width="400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🌱 I’m currently learning: **Advanced SQL, Looker and BigQuery.**
+- 🌱 I’m currently learning: **Advanced SQL and BigQuery.**
 
 - 💬 Ask me about **Pandas, Excel, Tableau,Power BI & SQL**
 
